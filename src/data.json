@@ -1,0 +1,32 @@
+{
+  "averageEmptyDistanceKpis": {
+    "global": {
+      "accepted": 41622,
+      "all": 57926
+    },
+    "filtered": {
+      "accepted": 41622,
+      "all": 57926
+    }
+  },
+  "averageWaitingTimeKpis": {
+    "global": {
+      "accepted": 15771,
+      "all": 19225
+    },
+    "filtered": {
+      "accepted": 15771,
+      "all": 19225
+    }
+  },
+  "numberOfAssignmentsKpis": {
+    "global": {
+      "accepted": 27,
+      "notAccepted": 425
+    },
+    "filtered": {
+      "accepted": 27,
+      "notAccepted": 425
+    }
+  }
+}
